@@ -1,6 +1,10 @@
 .env
 .idea
 *.org
+*.exe
+*.zip
 *.backup
 *.sum
 bpn
+buat_bebeb.zip
+bpn-go-linux-amd64
