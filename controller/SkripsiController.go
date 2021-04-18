@@ -3,7 +3,7 @@ package controller
 
 /**
 * @author snub on Jum 01 Jan 2021 22:43:24
-* /home/snub/skripsi/bphtb/bpn-go/controller/HomeController.go
+* /home/snub/skripsi/bphtb/bpn-go/controller/SkripsiController.go
  */
 
 import (
